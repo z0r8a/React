@@ -1,6 +1,6 @@
 # index.js
 
-```react
+```javascript
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
