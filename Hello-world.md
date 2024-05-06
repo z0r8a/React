@@ -1,6 +1,6 @@
 # index.js
 
-```
+```react
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 
@@ -18,7 +18,7 @@ root.render(
 
 # App.js
 
-```
+```react
 import { useEffect, useState } from "react";
 
 export default function App() {
